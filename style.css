@@ -181,7 +181,7 @@ line-height: 1.8em;
   .nav-links{
     display: none;
   }
-}
+
 
 .content{
   flex-direction: column;
@@ -203,6 +203,6 @@ line-height: 1.8em;
 .card-balance{
   top: 0;
 }
-
+}
   
 
